@@ -1,0 +1,3 @@
+Producto A, 192.50
+Producto B, 462.00
+Producto C, 288.75
